@@ -1,0 +1,13 @@
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\bin\Debug\netcoreapp3.1\napisy_app.exe
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\bin\Debug\netcoreapp3.1\napisy_app.deps.json
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\bin\Debug\netcoreapp3.1\napisy_app.runtimeconfig.json
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\bin\Debug\netcoreapp3.1\napisy_app.runtimeconfig.dev.json
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\bin\Debug\netcoreapp3.1\napisy_app.dll
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\bin\Debug\netcoreapp3.1\napisy_app.pdb
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.csprojAssemblyReference.cache
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.csproj.CoreCompileInputs.cache
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.AssemblyInfoInputs.cache
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.AssemblyInfo.cs
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.dll
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.pdb
+C:\Users\rsrok\source\repos\napisy_app\napisy_app\obj\Debug\netcoreapp3.1\napisy_app.genruntimeconfig.cache
